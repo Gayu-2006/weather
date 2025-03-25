@@ -1,3 +1,3 @@
 # weather
 
-## URL: https://github.com/Gayu-2006/weather.git 
+## URL: https://gayu-2006.github.io/weather/  
